@@ -1,9 +1,9 @@
-# 📈 Demand Forecasting for Retail Sales
+# Demand Forecasting for Retail Sales
 
 ## 📌 Project Overview
 This project uses **Time Series Forecasting** to predict future sales trends, helping businesses **optimize inventory and supply chain management**.
 
-## 📊 Dataset
+## Dataset
 - Source: [Shampoo Sales Dataset](https://www.kaggle.com/datasets)
 - **Features:** Monthly sales data over a 3-year period
 - **Target:** Forecasting future sales based on historical trends
